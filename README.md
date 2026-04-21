@@ -90,11 +90,21 @@ This project is intentionally designed to explore:
 
 ---
 
-## ⚙️ Getting Started
+## 📚 Documentation
 
-> _Instructions will be added as the project evolves._
+This project follows **Spec-Driven Development (SDD)**. Detailed specifications, architecture, and roadmaps are located in the `docs/` directory:
+
+- [SDD-001: Project Overview](./docs/SDD-001-OVERVIEW.md) - Goals, scope, and methodology
+- [SDD-002: Architecture Specification](./docs/SDD-002-ARCHITECTURE.md) - Tech stack, system design, and deployment
+- [SDD-003: Features Catalog](./docs/SDD-003-FEATURES.md) - Detailed specs for all CV capabilities
+- [SDD-004: API Specifications](./docs/SDD-004-API-SPECS.md) - REST and WebSocket endpoints
+- [SDD-005: Data Model](./docs/SDD-005-DATA-MODEL.md) - Database schema and storage strategy
+- [SDD-006: UI/UX Specifications](./docs/SDD-006-UI-UX.md) - Design system, wireframes, and user flows
+- [SDD-007: Implementation Roadmap](./docs/SDD-007-IMPLEMENTATION-ROADMAP.md) - Phased timeline and milestones
 
 ---
+
+
 
 ## 📚 Learning Mindset
 
